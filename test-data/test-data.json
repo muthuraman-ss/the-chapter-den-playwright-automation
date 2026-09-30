@@ -1,0 +1,23 @@
+{
+  "registration-user": {
+    "fullName": "Test User",
+    "email": "testuser001@example.com",
+    "password": "Test@12345",
+    "confirmPassword": "Test@12345",
+    "phone": "9876543210",
+    "doorNoStreet": "123 Test Street",
+    "landmark": "Near Main Road",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600001"
+  },
+  "books": {
+    "bookName": "The Alchemist",
+    "customerName": "Test User",
+    "country": "India",
+    "city": "Chennai",
+    "cardNumber": "1234567812345678",
+    "expMonth": "12",
+    "expYear": "2030"
+  }
+}
